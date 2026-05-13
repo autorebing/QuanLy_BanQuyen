@@ -1,2 +1,0 @@
-# Mỗi dòng: mã tool (vd. 102) hoặc tool=dd-MM-yyyy (vd. 101=15-05-2026)
-# Nhiều mục trên một dòng: cách nhau bởi dấu phẩy hoặc chấm phẩy.
